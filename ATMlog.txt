@@ -1,0 +1,15 @@
+
+***************
+Tai khoan 87654321 da thuc hien truy van tai khoan vao ngay 25-10-2022 22:36:39
+***************
+Tai khoan 87654321 da nap 500000 VND vao ngay 25-10-2022 22:36:48.
+So du cu: 500000 VND.
+So du moi: 1000000 VND.
+***************
+Tai khoan 87654321 da nap 500000 VND vao ngay 25-10-2022 22:37:45.
+So du cu: 1000000 VND.
+So du moi: 1500000 VND.
+***************
+Tai khoan 87654321 da rut 50000 VND vao ngay 25-10-2022 22:42:16.
+So du cu: 1500000 VND.
+So du moi: 1450000 VND
